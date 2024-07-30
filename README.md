@@ -4,6 +4,7 @@ ________________________________________________________________________________
 Medicine_Recommendations/
 │
 ├── app.py
+├── medicine_recommendations.ipynb
 ├── data/
 │   └── medicines.csv
 ├── static/
