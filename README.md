@@ -1,5 +1,5 @@
 Repository Structure
-__________________________________________________________________________________________________
+_____________________________________________________________________________________
 
 Medicine_Recommendations/
 │
@@ -33,4 +33,3 @@ Medicine_Recommendations/
 │   ├── recommendation.html
 │   └── contact.html
 └── requirements.txt
-
