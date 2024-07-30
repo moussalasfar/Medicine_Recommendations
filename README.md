@@ -1,4 +1,4 @@
-## Repository Structure ##
+Repository Structure
 __________________________________________________________________________________________________
 
 Medicine_Recommendations/
