@@ -48,7 +48,8 @@ Medicine_Recommendations/
 ```
 ## Installation
 #### 1. Clone the repository:
-```git clone https://github.com/moussalasfar/Medicine_Recommendations.git
+```
+git clone https://github.com/moussalasfar/Medicine_Recommendations.git
 cd Medicine_Recommendations
 ```
 #### 2. Install the required dependencies:
@@ -66,6 +67,8 @@ Open your browser and go to ```http://127.0.0.1:5000/```.
   Enter the name of a disease to get medicine recommendations.
 - #### Contact:
   Use the contact form to send inquiries.
-## License
-
+## contact
+For any questions or informations:
+- **linkedin**:<a href="www.linkedin.com/in/moussa-lasfar-423793196" target="_blank">Moussa Lasfar</a><br>
+- **Email**:`moussalasfar2000@gmail.com`
 
