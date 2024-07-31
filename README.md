@@ -2,17 +2,17 @@
 This is a Flask-based web application that provides personalized medicine recommendations based on user input. The system allows users to register, log in, and receive medicine recommendations by entering a disease name. The application also includes a contact page for users to send inquiries via email.
 
 ## Features
-- # User Authentication:
+- ### User Authentication:
   Register and log in with an email and password.
-- # Medicine Recommendation:
+- ### Medicine Recommendation:
   Enter a disease name to get a list of the 10 most relevant medicines.
-- # Contact Form:
+- ### Contact Form:
   Users can send messages via the contact page using SMTP.
-- # Personalized Dashboard:
+- ### Personalized Dashboard:
   Display the first letter of the user's email in a circle on the recommendation page.
 ## Project Structure
 __________________________________________________________________________________________
-
+```
 Medicine_Recommendations/
 │
 ├── app.py
@@ -45,19 +45,20 @@ Medicine_Recommendations/
 │   ├── recommendation.html
 │   └── contact.html
 └── requirements.txt
+```
 ## Installation
 ### 1. Clone the repository:
-'''git clone https://github.com/moussalasfar/Medicine_Recommendations.git
+```git clone https://github.com/moussalasfar/Medicine_Recommendations.git
 cd Medicine_Recommendations
-'''
+```
 ### 2. Install the required dependencies:
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 ### 3. Set up the database:
-Ensure you have a MySQL database running. Update the database URI in '''app.py''' with your credentials.
+Ensure you have a MySQL database running. Update the database URI in ```app.py``` with your credentials.
 ### 4. Run the application:
-'''python app.py'''
+```python app.py```
 ### 5. Access the application:
-Open your browser and go to '''http://127.0.0.1:5000/'''.
+Open your browser and go to ```http://127.0.0.1:5000/```.
 ## Usage
 - # Register/Login:
   Create a new account or log in with your credentials.
