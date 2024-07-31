@@ -16,7 +16,6 @@ ________________________________________________________________________________
 Medicine_Recommendations/
 │
 ├── app.py
-├── medicine_recommendations.ipynb
 ├── data/
 │   └── medicines.csv
 ├── static/
@@ -56,6 +55,9 @@ Medicine_Recommendations/
 │   ├── register_custom.html
 │   ├── recommendation.html
 │   └── contact.html
+├── model/
+│   └── model_colab.ipynb
+├── README.md
 └── requirements.txt
 ```
 ## Installation
