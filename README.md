@@ -30,8 +30,20 @@ Medicine_Recommendations/
 │   │       └── css/
 │   │           └── material-design-iconic-font.min.css
 │   ├── images/
-│   │   ├── signin.png
-│   │   └── signup.png
+│   |   ├── signin.png
+|   |   ├── signin.png
+|   |   ├── menu-svgrepo-com.png
+|   |   ├── signin-image.jpg
+|   |   ├── signup-image.jpg 
+|   |   ├── Hire Kotlin Developers - Kotlin Developers for H
+|   |   ├── im1.png
+|   |   ├── im2.png
+|   |   ├── im3.png
+|   |   ├── im4.png
+|   |   ├── img1.jpg
+|   |   ├── img2.jpg
+|   |   ├── img3.jpg       
+│   |   └── img4.jpg 
 │   ├── js/
 │   │   └── main.js
 │   └── vendor/
